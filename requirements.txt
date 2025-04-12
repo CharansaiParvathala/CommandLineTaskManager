@@ -1,0 +1,13 @@
+pymongo
+rich
+plotly
+pandas
+schedule
+spacy
+click
+typer
+tabulate
+python-dateutil
+termcolor
+bcrypt
+numpy
